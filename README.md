@@ -18,15 +18,15 @@ Controls: Up = W   Down = S    Left = A   Right = D   (HOLD) Shift = Speed Up Cr
 
 **ScreenShots**
 
-![alt text](./screenshots/Screenshot%201.png)
+![alt text](./Screenshots/Screenshot%201.png)
 
-![alt text](./screenshots/Screenshot%202.png)
+![alt text](./Screenshots/Screenshot%202.png)
 
-![alt text](./screenshots/Screenshot%203.png)
+![alt text](./Screenshots/Screenshot%203.png)
 
-![alt text](./screenshots/Screenshot%204.png)
+![alt text](./Screenshots/Screenshot%204.png)
 
-![alt text](./screenshots/Screenshot%205.png)
+![alt text](./Screenshots/Screenshot%205.png)
 
 
 
